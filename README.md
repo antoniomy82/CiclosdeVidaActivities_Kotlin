@@ -6,6 +6,7 @@ Puedes ver la explicación en el siguiente vídeo de Youtube:
 - https://youtu.be/GELYISp0jO8
 
 <p align="center">
+ - Imagen de la App
 <img src="https://raw.githubusercontent.com/antoniomy82/CiclosdeVidaActivities_Kotlin/master/Captura.PNG">
 </p>
 
